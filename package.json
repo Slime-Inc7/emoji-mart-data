@@ -17,7 +17,7 @@
   "sideEffects": false,
   "devDependencies": {
     "emoji-datasource": "15.0.1",
-    "emojilib": "3.0.10",
+    "emojilib": "git+https://github.com/Slime-Inc7/emojilib.git",
     "inflection": "2.0.1",
     "unicode-emoji-json": "0.4.0"
   },
